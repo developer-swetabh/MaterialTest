@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Material Test</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">settings</string>
+    <string name="next">Next</string>
+    <string name="title_activity_sub">SubActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    
+    <string-array name="tabs">
+        <item>Tab 1</item>
+        <item>Tab 2</item>
+        <item>Tab 3</item>
+    </string-array>
+    <string name="title_activity_activity_using_tab_library">ActivityUsingTabLibrary</string>
+    <string name="error_timeout">Oops! Your Connection Timed Out</string>
+    <string name="error_auth_failure">Oops! RottenTomatoes Says It Doesn\'t Recognize You</string>
+    <string name="error_network">Oops! RottenTomatoes Server Just Messed Up</string>
+    <string name="error_parser">Oops! Data Received Was An Unreadable Mess</string>
+</resources>
